@@ -1,0 +1,6 @@
+[submodule "anima"]
+	path = anima
+	url = git@github.com:pwang347/anima.git
+[submodule "NWHacks2018"]
+	path = NWHacks2018
+	url = git@github.com:MichaelZhang768/NWHacks2018.git
